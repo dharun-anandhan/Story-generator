@@ -1,0 +1,9 @@
+flask>=2.3.3
+python-dotenv>=1.0.0
+requests>=2.31.0
+reportlab>=4.0.4
+Pillow>=10.0.1
+torch>=2.0.1 --index-url https://download.pytorch.org/whl/cu118
+diffusers>=0.22.0
+accelerate>=0.24.0
+transformers>=4.34.0
