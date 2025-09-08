@@ -101,6 +101,9 @@ Image Models: runwayml/stable-diffusion-v1-5 or SDXL for better illustrations
 
 Update the code accordingly for higher performance and quality.
 
+demo_video : https://drive.google.com/file/d/1FueEQJeCP8AnYzHAqqAQKi2BccurELvG/view?usp=drivesdk
+
+
 ## 👥 Collaborators
 
 * **Dharun A /dharun-anandhan** → *Team Lead, Backend & Model Integration*
